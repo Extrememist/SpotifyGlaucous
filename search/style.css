@@ -411,7 +411,7 @@ The DLS Team
  * it without having even bright colors blending in with the image.
  */
 .GlueHeader__background-overlay {
-  background: rgba(24, 24, 24, 0.44);
+  background: rgba(0, 0, 0, 0) !important;
   position: absolute;
   top: 0;
   right: 0;
